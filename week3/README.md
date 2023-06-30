@@ -28,7 +28,7 @@ int main(void)
 	GPIO_InitStructure.GPIO_Pin=GPIO_Pin_13;//配置Pin脚为13
 	GPIO_InitStructure.GPIO_Speed=GPIO_Speed_50MHz;//配置GPIO为50MHz
 	GPIO_Init(GPIOC,&GPIO_InitStructure);//初始化GPIOC
-    GPIO_ResetBits(GPIOC,GPIO_Pin_13);//配置引脚PC13为低电平
+    	GPIO_ResetBits(GPIOC,GPIO_Pin_13);//配置引脚PC13为低电平
 	while(1)
 	{
 	}
