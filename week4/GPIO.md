@@ -30,7 +30,7 @@ STM32 芯片的 GPIO 引脚与外部设备连接起来，从而实现**与外部
 
 当当！这是GPIO基本结构系统框图！一个小小引脚背后大有乾坤！在这儿再推荐一个链接叭！[STM32的GPIO工作原理（附电路图详细分析）](https://zhuanlan.zhihu.com/p/66398167)
 
-![](https://github.com/zpclyn/2023-RMsoftware-Training/blob/main/IMAGE/week4/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-07-12%20121102.png)
+![](https://github.com/zpclyn/2023-RMsoftware-Training/blob/main/IMAGE/week4/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-07-12%20124016.png)
 
 一些电路知识：
 
